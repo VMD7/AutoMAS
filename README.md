@@ -17,7 +17,7 @@ With a built-in conversational intelligent bot, AutoMAS autonomously reports iss
 
 ## Getting Started
 ### 1. Visit the Website
-Go to automas.com to get started.
+Go to [AutoMAS](https://automas.vercel.app/) to get started.
 
 ### 2. Download the App
 Navigate to the "Download" section on the website and download the AutoMAS app.
